@@ -1,0 +1,7 @@
+main: de.marvinklar.customitemactions.Main
+name: CustomItemActions
+version: 1.0
+author: Mr_Minecraft15
+commands:
+ customitemactions:
+  aliases: [customitemaction, cia]
